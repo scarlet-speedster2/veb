@@ -1,0 +1,2 @@
+
+int mapping(char c);
